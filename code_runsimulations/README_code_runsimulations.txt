@@ -10,7 +10,7 @@ This dataset is from the paper titled
 
 Contact ashaw@umn.edu for assistance.
 
-This "code_runsimulations" folder contains 12 matlab (.m files):
+This "code_runsimulations" folder contains 14 matlab (.m files):
 
     runme_runcode.m: calls all other functions in 4 steps: (1) loads and
       cleans model structure data, (2) estimates overall model transitions
@@ -55,12 +55,8 @@ This "code_runsimulations" folder contains 12 matlab (.m files):
 
     plot_figS9.m: plots model figure with and without international
       students
+      
+    make_tableS4.m: output the data to use in the table S4 [uses set a]
 
 Along with .jpg copies of the figure files.
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-make_results_table.m: output the data to use in the table of results (see supplement) [uses set a]
 
